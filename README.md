@@ -23,6 +23,6 @@ All about web compatibility.
 ## Browser Platform Status
 
 - [Google Chrome / Chromium / Opera / Blink](https://www.chromestatus.com/features)
-- [Mozilla Firefox](https://platatus.herokuapp.com/)
+- [Mozilla Firefox](https://platform-status.mozilla.org/)
 - [Microsoft Edge / Internet Explorer](https://dev.windows.com/en-us/microsoft-edge/platform/status/)
 - [Apple Safari / WebKit](https://www.webkit.org/status/)
